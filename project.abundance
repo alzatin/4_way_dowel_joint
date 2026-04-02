@@ -7,8 +7,7 @@
   "ioValues": [
     {
       "name": "Dowel_diam",
-      "ioValue": 1.125,
-      "currentEquation": "1.125"
+      "ioValue": 1.125
     }
   ],
   "topLevel": true,
@@ -80,8 +79,8 @@
     },
     {
       "atomType": "Fusion",
-      "x": 0.6467889908256881,
-      "y": 0.6490683229813664,
+      "x": 0.6431192660550459,
+      "y": 0.48447204968944096,
       "uniqueID": "id-210",
       "ioValues": [
         {
@@ -573,8 +572,8 @@
     },
     {
       "atomType": "Fusion",
-      "x": 0.8623853211009175,
-      "y": 0.5900621118012422,
+      "x": 0.8596330275229357,
+      "y": 0.5714285714285714,
       "uniqueID": "id-1379",
       "ioValues": [
         {
@@ -1363,6 +1362,10 @@
                     {
                       "name": "scaleFactor",
                       "ioValue": 0.0393701
+                    },
+                    {
+                      "name": "inputShape",
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -1405,10 +1408,6 @@
                     {
                       "name": "scaleFactor",
                       "ioValue": 3
-                    },
-                    {
-                      "name": "inputShape",
-                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -1639,6 +1638,18 @@
         }
       ],
       "fileTypeVersion": 1
+    },
+    {
+      "atomType": "Circle",
+      "x": 0.6954128440366972,
+      "y": 0.7608695652173914,
+      "uniqueID": "id-1903",
+      "ioValues": [
+        {
+          "name": "diameter",
+          "ioValue": 10
+        }
+      ]
     }
   ],
   "allConnectors": [
@@ -1781,6 +1792,11 @@
       "ap2Name": "geometry",
       "ap1ID": "id-1121",
       "ap2ID": "id-866"
+    },
+    {
+      "ap2Name": "number or geometry",
+      "ap1ID": "id-1121",
+      "ap2ID": "id-195"
     },
     {
       "ap2Name": "Shape 9",
