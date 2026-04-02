@@ -862,30 +862,6 @@
         },
         {
           "atomType": "Move",
-          "x": 0.7467889908256881,
-          "y": 0.717391304347826,
-          "uniqueID": "id-479",
-          "ioValues": [
-            {
-              "name": "geometry",
-              "ioValue": "__GEOMETRY_INPUT__"
-            },
-            {
-              "name": "xDist",
-              "ioValue": 0
-            },
-            {
-              "name": "yDist",
-              "ioValue": 0
-            },
-            {
-              "name": "zDist",
-              "ioValue": 0.55
-            }
-          ]
-        },
-        {
-          "atomType": "Move",
           "x": 0.347009735744089,
           "y": 0.40062111801242234,
           "uniqueID": "id-621",
@@ -1726,6 +1702,30 @@
           },
           "unitsKey": "Inches",
           "fileTypeVersion": 1
+        },
+        {
+          "atomType": "Move",
+          "x": 0.7403669724770642,
+          "y": 0.7608695652173914,
+          "uniqueID": "id-1393",
+          "ioValues": [
+            {
+              "name": "geometry",
+              "ioValue": "__GEOMETRY_INPUT__"
+            },
+            {
+              "name": "xDist",
+              "ioValue": 0
+            },
+            {
+              "name": "yDist",
+              "ioValue": 0
+            },
+            {
+              "name": "zDist",
+              "ioValue": 0
+            }
+          ]
         }
       ],
       "allConnectors": [
@@ -1742,12 +1742,7 @@
         {
           "ap2Name": "geometry",
           "ap1ID": "id-474",
-          "ap2ID": "id-479"
-        },
-        {
-          "ap2Name": "number or geometry",
-          "ap1ID": "id-479",
-          "ap2ID": "id-461"
+          "ap2ID": "id-1393"
         },
         {
           "ap2Name": "Shape",
@@ -1763,6 +1758,11 @@
           "ap2Name": "geometry",
           "ap1ID": "id-517",
           "ap2ID": "id-621"
+        },
+        {
+          "ap2Name": "number or geometry",
+          "ap1ID": "id-1393",
+          "ap2ID": "id-461"
         }
       ],
       "fileTypeVersion": 1
