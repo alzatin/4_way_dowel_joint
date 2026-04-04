@@ -12,8 +12,7 @@
     },
     {
       "name": "Angle",
-      "ioValue": 25,
-      "currentEquation": "25"
+      "ioValue": 25
     }
   ],
   "topLevel": true,
@@ -32,8 +31,8 @@
     },
     {
       "atomType": "Circle",
-      "x": 0.12934631432545202,
-      "y": 0.7888198757763976,
+      "x": 0.1286509040333797,
+      "y": 0.7732919254658385,
       "uniqueID": "id-197",
       "ioValues": [
         {
@@ -548,8 +547,8 @@
     },
     {
       "atomType": "Export",
-      "x": 0.9036697247706422,
-      "y": 0.2981366459627329,
+      "x": 0.9033379694019471,
+      "y": 0.3074534161490683,
       "uniqueID": "id-866",
       "ioValues": [
         {
@@ -685,8 +684,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.6266055045871559,
-      "y": 0.8571428571428571,
+      "x": 0.6321279554937413,
+      "y": 0.8602484472049688,
       "uniqueID": "id-459",
       "name": "Flange",
       "topLevel": false,
@@ -705,7 +704,7 @@
         },
         {
           "atomType": "Circle",
-          "x": 0.21835883171070933,
+          "x": 0.22322670375521558,
           "y": 0.5745341614906833,
           "uniqueID": "id-467",
           "ioValues": [
@@ -1403,10 +1402,6 @@
                     {
                       "name": "scaleFactor",
                       "ioValue": 0.0393701
-                    },
-                    {
-                      "name": "inputShape",
-                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -1449,6 +1444,10 @@
                     {
                       "name": "scaleFactor",
                       "ioValue": 3
+                    },
+                    {
+                      "name": "inputShape",
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
