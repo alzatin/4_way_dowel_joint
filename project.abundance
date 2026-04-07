@@ -11,8 +11,7 @@
     },
     {
       "name": "LegAngle",
-      "ioValue": 25,
-      "currentEquation": "25"
+      "ioValue": 25
     }
   ],
   "topLevel": true,
@@ -228,7 +227,7 @@
         {
           "name": "Shape 10",
           "ioValue": {
-            "geometry": "move-cut-cut-cut-cut-cut-cut-cut-cut-extrude-circle-2.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-0.25-fbe4f1dc-{\"geometry\":[{\"geometry\":[{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-2-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-4],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"New Item\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-3-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-16-fbe4f1dc-{\"geometry\":[{\"geometry\":[{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-2-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-4],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"New Item\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-3-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-17-fbe4f1dc-{\"geometry\":[{\"geometry\":[{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-2-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-4],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"New Item\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-3-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-18-fbe4f1dc-{\"geometry\":[{\"geometry\":[{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-2-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-4],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"New Item\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-3-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-19-fbe4f1dc-{\"geometry\":[{\"geometry\":[{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-2-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-4],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"New Item\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-3-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-20-fbe4f1dc-{\"geometry\":[{\"geometry\":[{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-2-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-4],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"New Item\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-3-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-21-fbe4f1dc-{\"geometry\":[{\"geometry\":[{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-2-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-4],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"New Item\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-3-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-22-fbe4f1dc-{\"geometry\":[{\"geometry\":[{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-2-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-4],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"New Item\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-f56d8848-0.0393701-{\\\"geometry\\\":[{\\\"geometry\\\":\\\"cut-extrude-move-circle-1.65-0-0-0-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}--35-loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,-4],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[{\\\"BOMitemName\\\":\\\"New Item\\\",\\\"numberNeeded\\\":1,\\\"costUSD\\\":0,\\\"source\\\":\\\"\\\"}]},{\\\"geometry\\\":\\\"loft-move-circle-1.65-0-0-0-circle-4.25-{\\\\\\\"origin\\\\\\\":[0,0,-4],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}-{\\\\\\\"origin\\\\\\\":[0,0,0],\\\\\\\"xDir\\\\\\\":[1,0,0],\\\\\\\"normal\\\\\\\":[0,0,1]}\\\",\\\"dimension\\\":\\\"3D\\\",\\\"tags\\\":[],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"color\\\":\\\"#DBADA9\\\",\\\"bom\\\":[]}],\\\"plane\\\":{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]},\\\"tags\\\":[],\\\"color\\\":\\\"#aad7f2\\\",\\\"bom\\\":[],\\\"dimension\\\":\\\"3D\\\",\\\"nonReplicadSerialized\\\":[]}-3-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-23-0-0--2",
+            "geometry": "move-cut-cut-cut-cut-cut-cut-cut-cut-extrude-circle-2.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-0.25-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-16-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-17-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-18-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-19-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-20-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-21-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-22-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-23-0-0--2",
             "dimension": "3D",
             "tags": [],
             "plane": {
@@ -640,8 +639,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.6230876216968011,
-      "y": 0.8757763975155279,
+      "x": 0.6216908625106746,
+      "y": 0.8913043478260869,
       "uniqueID": "id-459",
       "name": "Flange",
       "topLevel": false,
@@ -956,17 +955,23 @@
         },
         {
           "atomType": "GitHubMolecule",
-          "x": 0.24965229485396384,
-          "y": 0.34782608695652173,
-          "uniqueID": "id-517",
+          "x": 0.2382578992314261,
+          "y": 0.37888198757763975,
+          "uniqueID": "id-2742",
           "name": "-6-Wood-Screw-inches",
+          "ioValues": [
+            {
+              "name": "Length",
+              "ioValue": 0.5
+            }
+          ],
           "topLevel": false,
           "allAtoms": [
             {
               "atomType": "Output",
               "x": 0.98,
               "y": 0.5,
-              "uniqueID": "id-493",
+              "uniqueID": "id-2732",
               "ioValues": [
                 {
                   "name": "number or geometry",
@@ -975,575 +980,272 @@
               ]
             },
             {
-              "atomType": "GitHubMolecule",
-              "x": 0.3083264633140973,
-              "y": 0.4199395770392749,
-              "uniqueID": "id-494",
-              "name": "-6-Wood-Screw",
-              "topLevel": false,
-              "allAtoms": [
-                {
-                  "atomType": "Output",
-                  "x": 0.98,
-                  "y": 0.5,
-                  "uniqueID": "id-495",
-                  "ioValues": [
-                    {
-                      "name": "number or geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.0787037037037037,
-                  "y": 0.6908077994428969,
-                  "uniqueID": "id-496",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 3.3
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.10714285714285714,
-                  "y": 0.32869080779944293,
-                  "uniqueID": "id-497",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 8.5
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Move",
-                  "x": 0.22552910052910055,
-                  "y": 0.6629526462395543,
-                  "uniqueID": "id-498",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 0
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 0
-                    },
-                    {
-                      "name": "zDist",
-                      "ioValue": -4
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Loft",
-                  "x": 0.33201058201058203,
-                  "y": 0.37325905292479106,
-                  "uniqueID": "id-499",
-                  "ioValues": [
-                    {
-                      "name": "Shape 1",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "Shape 3",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "Shape 1",
-                      "ioValue": {
-                        "geometry": "move-circle-1.65-0-0-0",
-                        "dimension": "2D",
-                        "tags": [],
-                        "plane": {
-                          "origin": [
-                            0,
-                            0,
-                            -4
-                          ],
-                          "xDir": [
-                            1,
-                            0,
-                            0
-                          ],
-                          "normal": [
-                            0,
-                            0,
-                            1
-                          ]
-                        },
-                        "color": "#aad7f2",
-                        "bom": []
-                      }
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": {
-                        "geometry": "circle-4.25",
-                        "dimension": "2D",
-                        "tags": [],
-                        "plane": {
-                          "origin": [
-                            0,
-                            0,
-                            0
-                          ],
-                          "xDir": [
-                            1,
-                            0,
-                            0
-                          ],
-                          "normal": [
-                            0,
-                            0,
-                            1
-                          ]
-                        },
-                        "color": "#aad7f2",
-                        "bom": []
-                      }
-                    },
-                    {
-                      "name": "Shape 3",
-                      "ioValue": ""
-                    }
-                  ],
-                  "closedSelection": 0
-                },
-                {
-                  "atomType": "Extrude",
-                  "x": 0.3796296296296296,
-                  "y": 0.6657381615598886,
-                  "uniqueID": "id-500",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "height",
-                      "ioValue": -35
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Assembly",
-                  "x": 0.4722222222222222,
-                  "y": 0.33147632311977715,
-                  "uniqueID": "id-501",
-                  "name": "Fusion",
-                  "ioValues": [
-                    {
-                      "name": "Shape 1",
-                      "ioValue": null
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": null
-                    }
-                  ],
-                  "unionType": "Assembly",
-                  "unionIndex": 1
-                },
-                {
-                  "atomType": "Add-BOM-Tag",
-                  "x": 0.5892857142857143,
-                  "y": 0.47075208913649025,
-                  "uniqueID": "id-502",
-                  "name": "Add BOM Tag",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "Item Name",
-                      "ioValue": "New Item",
-                      "currentEquation": "New Item"
-                    },
-                    {
-                      "name": "Number Needed",
-                      "ioValue": 1
-                    },
-                    {
-                      "name": "Cost (USD)",
-                      "ioValue": 0
-                    },
-                    {
-                      "name": "Source Link",
-                      "ioValue": ""
-                    }
-                  ],
-                  "BOMitem": {
-                    "BOMitemName": "New Item",
-                    "numberNeeded": 1,
-                    "costUSD": 0,
-                    "source": ""
-                  }
-                },
-                {
-                  "atomType": "Color",
-                  "x": 0.7156084656084657,
-                  "y": 0.49860724233983283,
-                  "uniqueID": "id-503",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ],
-                  "selectedColor": "Mauve "
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.6058981233243967,
-                  "y": 0.8016759776536313,
-                  "uniqueID": "id-504",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 10
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.7998212689901698,
-                  "y": 0.7430167597765363,
-                  "uniqueID": "id-505",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 10
-                    }
-                  ]
-                }
-              ],
-              "allConnectors": [
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-496",
-                  "ap2ID": "id-498"
-                },
-                {
-                  "ap2Name": "Shape 2",
-                  "ap1ID": "id-497",
-                  "ap2ID": "id-499"
-                },
-                {
-                  "ap2Name": "Shape 1",
-                  "ap1ID": "id-498",
-                  "ap2ID": "id-499"
-                },
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-498",
-                  "ap2ID": "id-500"
-                },
-                {
-                  "ap2Name": "Shape 2",
-                  "ap1ID": "id-499",
-                  "ap2ID": "id-501"
-                },
-                {
-                  "ap2Name": "Shape 1",
-                  "ap1ID": "id-500",
-                  "ap2ID": "id-501"
-                },
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-501",
-                  "ap2ID": "id-502"
-                },
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-502",
-                  "ap2ID": "id-503"
-                },
-                {
-                  "ap2Name": "number or geometry",
-                  "ap1ID": "id-503",
-                  "ap2ID": "id-495"
-                }
-              ],
-              "parentRepo": {
-                "lastFoundGit": "2026-02-10T10:23:39.167Z",
-                "privateRepo": false,
-                "repoName": "-6-Wood-Screw",
-                "dateCreated": "2025-01-03T19:58:30Z",
-                "likes": 0,
-                "readMe": "https://raw.githubusercontent.com/BarbourSmith/-6-Wood-Screw/master/README.md?sanitize=true",
-                "yyyy": 2025,
-                "topMoleculeID": 1735934311384,
-                "githubMoleculesUsed": [],
-                "html_url": "https://github.com/BarbourSmith/-6-Wood-Screw",
-                "topics": [],
-                "parentRepo": null,
-                "forks": 1,
-                "dateModified": "739399",
-                "ranking": 3.5,
-                "searchField": "-6-wood-screw barboursmith a standard #6 wood screw ",
-                "owner": "BarbourSmith",
-                "description": "A standard #6 wood screw",
-                "contentURL": "https://raw.githubusercontent.com/BarbourSmith/-6-Wood-Screw/master/project.abundance?sanitize=true",
-                "svgURL": "https://raw.githubusercontent.com/BarbourSmith/-6-Wood-Screw/master/project.svg?sanitize=true",
-                "isLocal": false
-              },
-              "unitsKey": "MM",
-              "fileTypeVersion": 1
-            },
-            {
-              "atomType": "GitHubMolecule",
-              "x": 0.560593569661995,
-              "y": 0.43202416918429004,
-              "uniqueID": "id-506",
-              "name": "Scale",
+              "atomType": "Circle",
+              "x": 0.20153714773697695,
+              "y": 0.6987577639751553,
+              "uniqueID": "id-2733",
               "ioValues": [
                 {
-                  "name": "Geometry",
+                  "name": "diameter",
+                  "ioValue": 0.15625,
+                  "currentEquation": "5/32"
+                }
+              ]
+            },
+            {
+              "atomType": "Circle",
+              "x": 0.1861656703672075,
+              "y": 0.38819875776397517,
+              "uniqueID": "id-2734",
+              "ioValues": [
+                {
+                  "name": "diameter",
+                  "ioValue": 0.28125,
+                  "currentEquation": "9/32"
+                }
+              ]
+            },
+            {
+              "atomType": "Move",
+              "x": 0.3432963279248506,
+              "y": 0.7018633540372671,
+              "uniqueID": "id-2735",
+              "ioValues": [
+                {
+                  "name": "geometry",
                   "ioValue": "__GEOMETRY_INPUT__"
                 },
                 {
-                  "name": "Scale Factor",
-                  "ioValue": 0.0393701
+                  "name": "xDist",
+                  "ioValue": 0
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 0
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": -0.1
+                }
+              ]
+            },
+            {
+              "atomType": "Loft",
+              "x": 0.4227156276686593,
+              "y": 0.2857142857142857,
+              "uniqueID": "id-2736",
+              "ioValues": [
+                {
+                  "name": "Shape 1",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "Shape 2",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "Shape 3",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "Shape 1",
+                  "ioValue": {
+                    "geometry": "move-circle-0.078125-0-0-0",
+                    "dimension": "2D",
+                    "tags": [],
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        -0.1
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "bom": []
+                  }
+                },
+                {
+                  "name": "Shape 2",
+                  "ioValue": {
+                    "geometry": "circle-0.140625",
+                    "dimension": "2D",
+                    "tags": [],
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "bom": []
+                  }
+                },
+                {
+                  "name": "Shape 3",
+                  "ioValue": ""
                 }
               ],
-              "topLevel": false,
-              "allAtoms": [
+              "closedSelection": 0
+            },
+            {
+              "atomType": "Extrude",
+              "x": 0.49274124679760883,
+              "y": 0.6583850931677019,
+              "uniqueID": "id-2737",
+              "ioValues": [
                 {
-                  "atomType": "Output",
-                  "x": 0.98,
-                  "y": 0.5,
-                  "uniqueID": "id-507",
-                  "ioValues": [
-                    {
-                      "name": "number or geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ]
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 },
                 {
-                  "atomType": "Input",
-                  "x": 0.025384615384615384,
-                  "y": 0.15384615384615385,
-                  "uniqueID": "id-508",
-                  "name": "Geometry",
-                  "type": "geometry"
+                  "name": "height",
+                  "ioValue": -0.5,
+                  "currentEquation": "-Length"
+                }
+              ]
+            },
+            {
+              "atomType": "Assembly",
+              "x": 0.6088812980358668,
+              "y": 0.3012422360248447,
+              "uniqueID": "id-2738",
+              "name": "Fusion",
+              "ioValues": [
+                {
+                  "name": "Shape 1",
+                  "ioValue": null
                 },
                 {
-                  "atomType": "Input",
-                  "x": 0.025384615384615384,
-                  "y": 0.24615384615384617,
-                  "uniqueID": "id-509",
-                  "name": "Scale Factor",
-                  "type": "number"
-                },
-                {
-                  "atomType": "Code",
-                  "x": 0.5359160613397901,
-                  "y": 0.6739130434782609,
-                  "uniqueID": "id-510",
-                  "ioValues": [
-                    {
-                      "name": "scaleFactor",
-                      "ioValue": 0.0393701
-                    },
-                    {
-                      "name": "inputShape",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ],
-                  "codeVersion": 1,
-                  "code": " \n      //Inputs:[inputShape, scaleFactor]\n      //This defines the molecules inputs and creates variables with the same names which can be referenced in the code\n      \n      //Takes the address and gets the shape from the library\n      let importedShape = library[inputShape]\n\n      let scaledShape = await Scale(inputShape, scaleFactor);\n      \n      \n      //Shapes stored in the library have tags, a color, a plane, and a bill of materials like this. We don't modify them here\n      let shape1 = {\n        geometry: [scaledShape],\n        tags: importedShape.tags,\n        color: importedShape.color,\n        plane: importedShape.plane,\n        bom: importedShape.bom\n      }\n      \n      return shape1\n      \n      \n      \n          /**\n          To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n          If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n          Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n          https://replicad.xyz/docs/introapp/UserGuide.html \n          Return a replicad object that includes geometry, color, tags and plane. \n      \n      \n          Example Code Atom:\n      \n            Inputs:[shape, x];\n      \n            let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n      \n            return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n      \n            - See more examples at _______ \n      \n      \n          */\n      "
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.2832214765100671,
-                  "y": 0.27639751552795033,
-                  "uniqueID": "id-511",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 10
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Extrude",
-                  "x": 0.4154362416107382,
-                  "y": 0.2546583850931677,
-                  "uniqueID": "id-512",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "height",
-                      "ioValue": 10
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Code",
-                  "x": 0.514765100671141,
-                  "y": 0.453416149068323,
-                  "uniqueID": "id-513",
-                  "ioValues": [
-                    {
-                      "name": "scaleFactor",
-                      "ioValue": 3
-                    }
-                  ],
-                  "codeVersion": 1,
-                  "code": " \n      //Inputs:[inputShape, scaleFactor]\n      //This defines the molecules inputs and creates variables with the same names which can be referenced in the code\n      \n      //Takes the address and gets the shape from the library\n      let importedShape = library[inputShape]\n\n      let scaledShape = await Scale(inputShape, scaleFactor);\n      \n      \n      //Shapes stored in the library have tags, a color, a plane, and a bill of materials like this. We don't modify them here\n      let shape1 = {\n        geometry: [scaledShape],\n        tags: importedShape.tags,\n        color: importedShape.color,\n        plane: importedShape.plane,\n        bom: importedShape.bom\n      }\n      \n      return shape1\n      \n      \n      \n          /**\n          To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n          If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n          Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n          https://replicad.xyz/docs/introapp/UserGuide.html \n          Return a replicad object that includes geometry, color, tags and plane. \n      \n      \n          Example Code Atom:\n      \n            Inputs:[shape, x];\n      \n            let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n      \n            return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n      \n            - See more examples at _______ \n      \n      \n          */\n      "
-                },
-                {
-                  "atomType": "Assembly",
-                  "x": 0.7304277643260694,
-                  "y": 0.3726708074534162,
-                  "uniqueID": "id-514",
-                  "ioValues": [
-                    {
-                      "name": "Shape 1",
-                      "ioValue": null
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": null
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Move",
-                  "x": 0.6263115415657788,
-                  "y": 0.2732919254658385,
-                  "uniqueID": "id-515",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 0
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 30
-                    },
-                    {
-                      "name": "zDist",
-                      "ioValue": 0
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Readme",
-                  "x": 0.8175948345439871,
-                  "y": 0.2981366459627329,
-                  "uniqueID": "id-516",
-                  "name": "README",
-                  "ioValues": [
-                    {
-                      "name": "value",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ],
-                  "readMeText": "Readme text here",
-                  "global": true
+                  "name": "Shape 2",
+                  "ioValue": null
                 }
               ],
-              "allConnectors": [
+              "unionType": "Assembly",
+              "unionIndex": 1
+            },
+            {
+              "atomType": "Add-BOM-Tag",
+              "x": 0.7143894107600341,
+              "y": 0.2605590062111801,
+              "uniqueID": "id-2739",
+              "name": "Add BOM Tag",
+              "ioValues": [
                 {
-                  "ap2Name": "inputShape",
-                  "ap1ID": "id-508",
-                  "ap2ID": "id-510"
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 },
                 {
-                  "ap2Name": "scaleFactor",
-                  "ap1ID": "id-509",
-                  "ap2ID": "id-510"
+                  "name": "Item Name",
+                  "ioValue": "#6 Screw",
+                  "currentEquation": "#6 Screw"
                 },
                 {
-                  "ap2Name": "number or geometry",
-                  "ap1ID": "id-510",
-                  "ap2ID": "id-507"
+                  "name": "Number Needed",
+                  "ioValue": 1
                 },
                 {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-511",
-                  "ap2ID": "id-512"
+                  "name": "Cost (USD)",
+                  "ioValue": 0
                 },
                 {
-                  "ap2Name": "inputShape",
-                  "ap1ID": "id-512",
-                  "ap2ID": "id-513"
-                },
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-512",
-                  "ap2ID": "id-515"
-                },
-                {
-                  "ap2Name": "Shape 1",
-                  "ap1ID": "id-513",
-                  "ap2ID": "id-514"
-                },
-                {
-                  "ap2Name": "Shape 2",
-                  "ap1ID": "id-515",
-                  "ap2ID": "id-514"
+                  "name": "Source Link",
+                  "ioValue": ""
                 }
               ],
-              "parentRepo": {
-                "lastFoundGit": "2026-02-10T10:23:39.167Z",
-                "privateRepo": false,
-                "repoName": "Scale",
-                "dateCreated": "2025-06-26T17:06:11Z",
-                "likes": 0,
-                "readMe": "https://raw.githubusercontent.com/alzatin/Scale/master/README.md?sanitize=true",
-                "yyyy": 2025,
-                "topMoleculeID": "4b6bc40a-44a9-438a-9ed9-ba4910815d8d",
-                "githubMoleculesUsed": [],
-                "html_url": "https://github.com/alzatin/Scale",
-                "topics": [],
-                "parentRepo": "BarbourSmith/Scale",
-                "forks": 0,
-                "dateModified": "739564",
-                "ranking": 0.6,
-                "searchField": "scale alzatin scales the input 2d or 3d geometry by the scale factor ",
-                "owner": "alzatin",
-                "description": "Scales the input 2D or 3D geometry by the scale factor",
-                "contentURL": "https://raw.githubusercontent.com/alzatin/Scale/master/project.abundance?sanitize=true",
-                "svgURL": "https://raw.githubusercontent.com/alzatin/Scale/master/project.svg?sanitize=true",
-                "isLocal": false
-              },
-              "unitsKey": "Unitless",
-              "fileTypeVersion": 1
+              "BOMitem": {
+                "BOMitemName": "#6 Screw",
+                "numberNeeded": 1,
+                "costUSD": 0,
+                "source": ""
+              }
+            },
+            {
+              "atomType": "Color",
+              "x": 0.8232280102476517,
+              "y": 0.3819875776397516,
+              "uniqueID": "id-2740",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                }
+              ],
+              "selectedColor": "Mauve "
+            },
+            {
+              "atomType": "Input",
+              "x": 0.025384615384615384,
+              "y": 0.15384615384615385,
+              "uniqueID": "id-2741",
+              "name": "Length"
             }
           ],
           "allConnectors": [
             {
-              "ap2Name": "Geometry",
-              "ap1ID": "id-494",
-              "ap2ID": "id-506"
+              "ap2Name": "geometry",
+              "ap1ID": "id-2733",
+              "ap2ID": "id-2735"
+            },
+            {
+              "ap2Name": "Shape 2",
+              "ap1ID": "id-2734",
+              "ap2ID": "id-2736"
+            },
+            {
+              "ap2Name": "Shape 1",
+              "ap1ID": "id-2735",
+              "ap2ID": "id-2736"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-2735",
+              "ap2ID": "id-2737"
+            },
+            {
+              "ap2Name": "Shape 2",
+              "ap1ID": "id-2736",
+              "ap2ID": "id-2738"
+            },
+            {
+              "ap2Name": "Shape 1",
+              "ap1ID": "id-2737",
+              "ap2ID": "id-2738"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-2738",
+              "ap2ID": "id-2739"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-2739",
+              "ap2ID": "id-2740"
             },
             {
               "ap2Name": "number or geometry",
-              "ap1ID": "id-506",
-              "ap2ID": "id-493"
+              "ap1ID": "id-2740",
+              "ap2ID": "id-2732"
             }
           ],
           "parentRepo": {
@@ -1629,7 +1331,7 @@
         },
         {
           "ap2Name": "geometry",
-          "ap1ID": "id-517",
+          "ap1ID": "id-2742",
           "ap2ID": "id-621"
         }
       ],
@@ -1893,17 +1595,23 @@
         },
         {
           "atomType": "GitHubMolecule",
-          "x": 0.29965229485396383,
-          "y": 0.29782608695652174,
-          "uniqueID": "id-1911",
+          "x": 0.25533731853117,
+          "y": 0.5248447204968945,
+          "uniqueID": "id-2696",
           "name": "-6-Wood-Screw-inches",
+          "ioValues": [
+            {
+              "name": "Length",
+              "ioValue": 0.5
+            }
+          ],
           "topLevel": false,
           "allAtoms": [
             {
               "atomType": "Output",
               "x": 0.98,
               "y": 0.5,
-              "uniqueID": "id-1912",
+              "uniqueID": "id-2686",
               "ioValues": [
                 {
                   "name": "number or geometry",
@@ -1912,575 +1620,272 @@
               ]
             },
             {
-              "atomType": "GitHubMolecule",
-              "x": 0.3083264633140973,
-              "y": 0.4199395770392749,
-              "uniqueID": "id-1913",
-              "name": "-6-Wood-Screw",
-              "topLevel": false,
-              "allAtoms": [
-                {
-                  "atomType": "Output",
-                  "x": 0.98,
-                  "y": 0.5,
-                  "uniqueID": "id-1914",
-                  "ioValues": [
-                    {
-                      "name": "number or geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.0787037037037037,
-                  "y": 0.6908077994428969,
-                  "uniqueID": "id-1915",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 3.3
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.10714285714285714,
-                  "y": 0.32869080779944293,
-                  "uniqueID": "id-1916",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 8.5
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Move",
-                  "x": 0.22552910052910055,
-                  "y": 0.6629526462395543,
-                  "uniqueID": "id-1917",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 0
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 0
-                    },
-                    {
-                      "name": "zDist",
-                      "ioValue": -4
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Loft",
-                  "x": 0.33201058201058203,
-                  "y": 0.37325905292479106,
-                  "uniqueID": "id-1918",
-                  "ioValues": [
-                    {
-                      "name": "Shape 1",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "Shape 3",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "Shape 1",
-                      "ioValue": {
-                        "geometry": "move-circle-1.65-0-0-0",
-                        "dimension": "2D",
-                        "tags": [],
-                        "plane": {
-                          "origin": [
-                            0,
-                            0,
-                            -4
-                          ],
-                          "xDir": [
-                            1,
-                            0,
-                            0
-                          ],
-                          "normal": [
-                            0,
-                            0,
-                            1
-                          ]
-                        },
-                        "color": "#aad7f2",
-                        "bom": []
-                      }
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": {
-                        "geometry": "circle-4.25",
-                        "dimension": "2D",
-                        "tags": [],
-                        "plane": {
-                          "origin": [
-                            0,
-                            0,
-                            0
-                          ],
-                          "xDir": [
-                            1,
-                            0,
-                            0
-                          ],
-                          "normal": [
-                            0,
-                            0,
-                            1
-                          ]
-                        },
-                        "color": "#aad7f2",
-                        "bom": []
-                      }
-                    },
-                    {
-                      "name": "Shape 3",
-                      "ioValue": ""
-                    }
-                  ],
-                  "closedSelection": 0
-                },
-                {
-                  "atomType": "Extrude",
-                  "x": 0.3796296296296296,
-                  "y": 0.6657381615598886,
-                  "uniqueID": "id-1919",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "height",
-                      "ioValue": -35
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Assembly",
-                  "x": 0.4722222222222222,
-                  "y": 0.33147632311977715,
-                  "uniqueID": "id-1920",
-                  "name": "Fusion",
-                  "ioValues": [
-                    {
-                      "name": "Shape 1",
-                      "ioValue": null
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": null
-                    }
-                  ],
-                  "unionType": "Assembly",
-                  "unionIndex": 1
-                },
-                {
-                  "atomType": "Add-BOM-Tag",
-                  "x": 0.5892857142857143,
-                  "y": 0.47075208913649025,
-                  "uniqueID": "id-1921",
-                  "name": "Add BOM Tag",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "Item Name",
-                      "ioValue": "New Item",
-                      "currentEquation": "New Item"
-                    },
-                    {
-                      "name": "Number Needed",
-                      "ioValue": 1
-                    },
-                    {
-                      "name": "Cost (USD)",
-                      "ioValue": 0
-                    },
-                    {
-                      "name": "Source Link",
-                      "ioValue": ""
-                    }
-                  ],
-                  "BOMitem": {
-                    "BOMitemName": "New Item",
-                    "numberNeeded": 1,
-                    "costUSD": 0,
-                    "source": ""
-                  }
-                },
-                {
-                  "atomType": "Color",
-                  "x": 0.7156084656084657,
-                  "y": 0.49860724233983283,
-                  "uniqueID": "id-1922",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ],
-                  "selectedColor": "Mauve "
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.6058981233243967,
-                  "y": 0.8016759776536313,
-                  "uniqueID": "id-1923",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 10
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.7998212689901698,
-                  "y": 0.7430167597765363,
-                  "uniqueID": "id-1924",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 10
-                    }
-                  ]
-                }
-              ],
-              "allConnectors": [
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-1915",
-                  "ap2ID": "id-1917"
-                },
-                {
-                  "ap2Name": "Shape 2",
-                  "ap1ID": "id-1916",
-                  "ap2ID": "id-1918"
-                },
-                {
-                  "ap2Name": "Shape 1",
-                  "ap1ID": "id-1917",
-                  "ap2ID": "id-1918"
-                },
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-1917",
-                  "ap2ID": "id-1919"
-                },
-                {
-                  "ap2Name": "Shape 2",
-                  "ap1ID": "id-1918",
-                  "ap2ID": "id-1920"
-                },
-                {
-                  "ap2Name": "Shape 1",
-                  "ap1ID": "id-1919",
-                  "ap2ID": "id-1920"
-                },
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-1920",
-                  "ap2ID": "id-1921"
-                },
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-1921",
-                  "ap2ID": "id-1922"
-                },
-                {
-                  "ap2Name": "number or geometry",
-                  "ap1ID": "id-1922",
-                  "ap2ID": "id-1914"
-                }
-              ],
-              "parentRepo": {
-                "lastFoundGit": "2026-02-10T10:23:39.167Z",
-                "privateRepo": false,
-                "repoName": "-6-Wood-Screw",
-                "dateCreated": "2025-01-03T19:58:30Z",
-                "likes": 0,
-                "readMe": "https://raw.githubusercontent.com/BarbourSmith/-6-Wood-Screw/master/README.md?sanitize=true",
-                "yyyy": 2025,
-                "topMoleculeID": 1735934311384,
-                "githubMoleculesUsed": [],
-                "html_url": "https://github.com/BarbourSmith/-6-Wood-Screw",
-                "topics": [],
-                "parentRepo": null,
-                "forks": 1,
-                "dateModified": "739399",
-                "ranking": 3.5,
-                "searchField": "-6-wood-screw barboursmith a standard #6 wood screw ",
-                "owner": "BarbourSmith",
-                "description": "A standard #6 wood screw",
-                "contentURL": "https://raw.githubusercontent.com/BarbourSmith/-6-Wood-Screw/master/project.abundance?sanitize=true",
-                "svgURL": "https://raw.githubusercontent.com/BarbourSmith/-6-Wood-Screw/master/project.svg?sanitize=true",
-                "isLocal": false
-              },
-              "unitsKey": "MM",
-              "fileTypeVersion": 1
-            },
-            {
-              "atomType": "GitHubMolecule",
-              "x": 0.560593569661995,
-              "y": 0.43202416918429004,
-              "uniqueID": "id-1925",
-              "name": "Scale",
+              "atomType": "Circle",
+              "x": 0.20153714773697695,
+              "y": 0.6987577639751553,
+              "uniqueID": "id-2687",
               "ioValues": [
                 {
-                  "name": "Geometry",
+                  "name": "diameter",
+                  "ioValue": 0.15625,
+                  "currentEquation": "5/32"
+                }
+              ]
+            },
+            {
+              "atomType": "Circle",
+              "x": 0.1861656703672075,
+              "y": 0.38819875776397517,
+              "uniqueID": "id-2688",
+              "ioValues": [
+                {
+                  "name": "diameter",
+                  "ioValue": 0.28125,
+                  "currentEquation": "9/32"
+                }
+              ]
+            },
+            {
+              "atomType": "Move",
+              "x": 0.3432963279248506,
+              "y": 0.7018633540372671,
+              "uniqueID": "id-2689",
+              "ioValues": [
+                {
+                  "name": "geometry",
                   "ioValue": "__GEOMETRY_INPUT__"
                 },
                 {
-                  "name": "Scale Factor",
-                  "ioValue": 0.0393701
+                  "name": "xDist",
+                  "ioValue": 0
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 0
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": -0.1
+                }
+              ]
+            },
+            {
+              "atomType": "Loft",
+              "x": 0.4227156276686593,
+              "y": 0.2857142857142857,
+              "uniqueID": "id-2690",
+              "ioValues": [
+                {
+                  "name": "Shape 1",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "Shape 2",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "Shape 3",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "Shape 1",
+                  "ioValue": {
+                    "geometry": "move-circle-0.078125-0-0-0",
+                    "dimension": "2D",
+                    "tags": [],
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        -0.1
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "bom": []
+                  }
+                },
+                {
+                  "name": "Shape 2",
+                  "ioValue": {
+                    "geometry": "circle-0.140625",
+                    "dimension": "2D",
+                    "tags": [],
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "bom": []
+                  }
+                },
+                {
+                  "name": "Shape 3",
+                  "ioValue": ""
                 }
               ],
-              "topLevel": false,
-              "allAtoms": [
+              "closedSelection": 0
+            },
+            {
+              "atomType": "Extrude",
+              "x": 0.49274124679760883,
+              "y": 0.6583850931677019,
+              "uniqueID": "id-2691",
+              "ioValues": [
                 {
-                  "atomType": "Output",
-                  "x": 0.98,
-                  "y": 0.5,
-                  "uniqueID": "id-1926",
-                  "ioValues": [
-                    {
-                      "name": "number or geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ]
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 },
                 {
-                  "atomType": "Input",
-                  "x": 0.025384615384615384,
-                  "y": 0.15384615384615385,
-                  "uniqueID": "id-1927",
-                  "name": "Geometry",
-                  "type": "geometry"
+                  "name": "height",
+                  "ioValue": -0.5,
+                  "currentEquation": "-Length"
+                }
+              ]
+            },
+            {
+              "atomType": "Assembly",
+              "x": 0.6088812980358668,
+              "y": 0.3012422360248447,
+              "uniqueID": "id-2692",
+              "name": "Fusion",
+              "ioValues": [
+                {
+                  "name": "Shape 1",
+                  "ioValue": null
                 },
                 {
-                  "atomType": "Input",
-                  "x": 0.025384615384615384,
-                  "y": 0.24615384615384617,
-                  "uniqueID": "id-1928",
-                  "name": "Scale Factor",
-                  "type": "number"
-                },
-                {
-                  "atomType": "Code",
-                  "x": 0.5359160613397901,
-                  "y": 0.6739130434782609,
-                  "uniqueID": "id-1929",
-                  "ioValues": [
-                    {
-                      "name": "scaleFactor",
-                      "ioValue": 0.0393701
-                    }
-                  ],
-                  "codeVersion": 1,
-                  "code": " \n      //Inputs:[inputShape, scaleFactor]\n      //This defines the molecules inputs and creates variables with the same names which can be referenced in the code\n      \n      //Takes the address and gets the shape from the library\n      let importedShape = library[inputShape]\n\n      let scaledShape = await Scale(inputShape, scaleFactor);\n      \n      \n      //Shapes stored in the library have tags, a color, a plane, and a bill of materials like this. We don't modify them here\n      let shape1 = {\n        geometry: [scaledShape],\n        tags: importedShape.tags,\n        color: importedShape.color,\n        plane: importedShape.plane,\n        bom: importedShape.bom\n      }\n      \n      return shape1\n      \n      \n      \n          /**\n          To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n          If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n          Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n          https://replicad.xyz/docs/introapp/UserGuide.html \n          Return a replicad object that includes geometry, color, tags and plane. \n      \n      \n          Example Code Atom:\n      \n            Inputs:[shape, x];\n      \n            let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n      \n            return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n      \n            - See more examples at _______ \n      \n      \n          */\n      "
-                },
-                {
-                  "atomType": "Circle",
-                  "x": 0.2832214765100671,
-                  "y": 0.27639751552795033,
-                  "uniqueID": "id-1930",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 10
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Extrude",
-                  "x": 0.4154362416107382,
-                  "y": 0.2546583850931677,
-                  "uniqueID": "id-1931",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "height",
-                      "ioValue": 10
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Code",
-                  "x": 0.514765100671141,
-                  "y": 0.453416149068323,
-                  "uniqueID": "id-1932",
-                  "ioValues": [
-                    {
-                      "name": "scaleFactor",
-                      "ioValue": 3
-                    },
-                    {
-                      "name": "inputShape",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ],
-                  "codeVersion": 1,
-                  "code": " \n      //Inputs:[inputShape, scaleFactor]\n      //This defines the molecules inputs and creates variables with the same names which can be referenced in the code\n      \n      //Takes the address and gets the shape from the library\n      let importedShape = library[inputShape]\n\n      let scaledShape = await Scale(inputShape, scaleFactor);\n      \n      \n      //Shapes stored in the library have tags, a color, a plane, and a bill of materials like this. We don't modify them here\n      let shape1 = {\n        geometry: [scaledShape],\n        tags: importedShape.tags,\n        color: importedShape.color,\n        plane: importedShape.plane,\n        bom: importedShape.bom\n      }\n      \n      return shape1\n      \n      \n      \n          /**\n          To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n          If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n          Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n          https://replicad.xyz/docs/introapp/UserGuide.html \n          Return a replicad object that includes geometry, color, tags and plane. \n      \n      \n          Example Code Atom:\n      \n            Inputs:[shape, x];\n      \n            let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n      \n            return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n      \n            - See more examples at _______ \n      \n      \n          */\n      "
-                },
-                {
-                  "atomType": "Assembly",
-                  "x": 0.7304277643260694,
-                  "y": 0.3726708074534162,
-                  "uniqueID": "id-1933",
-                  "ioValues": [
-                    {
-                      "name": "Shape 1",
-                      "ioValue": null
-                    },
-                    {
-                      "name": "Shape 2",
-                      "ioValue": null
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Move",
-                  "x": 0.6263115415657788,
-                  "y": 0.2732919254658385,
-                  "uniqueID": "id-1934",
-                  "ioValues": [
-                    {
-                      "name": "geometry",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 0
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 30
-                    },
-                    {
-                      "name": "zDist",
-                      "ioValue": 0
-                    }
-                  ]
-                },
-                {
-                  "atomType": "Readme",
-                  "x": 0.8175948345439871,
-                  "y": 0.2981366459627329,
-                  "uniqueID": "id-1935",
-                  "name": "README",
-                  "ioValues": [
-                    {
-                      "name": "value",
-                      "ioValue": "__GEOMETRY_INPUT__"
-                    }
-                  ],
-                  "readMeText": "Readme text here",
-                  "global": true
+                  "name": "Shape 2",
+                  "ioValue": null
                 }
               ],
-              "allConnectors": [
+              "unionType": "Assembly",
+              "unionIndex": 1
+            },
+            {
+              "atomType": "Add-BOM-Tag",
+              "x": 0.7143894107600341,
+              "y": 0.2605590062111801,
+              "uniqueID": "id-2693",
+              "name": "Add BOM Tag",
+              "ioValues": [
                 {
-                  "ap2Name": "inputShape",
-                  "ap1ID": "id-1927",
-                  "ap2ID": "id-1929"
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 },
                 {
-                  "ap2Name": "scaleFactor",
-                  "ap1ID": "id-1928",
-                  "ap2ID": "id-1929"
+                  "name": "Item Name",
+                  "ioValue": "#6 Screw",
+                  "currentEquation": "#6 Screw"
                 },
                 {
-                  "ap2Name": "number or geometry",
-                  "ap1ID": "id-1929",
-                  "ap2ID": "id-1926"
+                  "name": "Number Needed",
+                  "ioValue": 1
                 },
                 {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-1930",
-                  "ap2ID": "id-1931"
+                  "name": "Cost (USD)",
+                  "ioValue": 0
                 },
                 {
-                  "ap2Name": "inputShape",
-                  "ap1ID": "id-1931",
-                  "ap2ID": "id-1932"
-                },
-                {
-                  "ap2Name": "geometry",
-                  "ap1ID": "id-1931",
-                  "ap2ID": "id-1934"
-                },
-                {
-                  "ap2Name": "Shape 1",
-                  "ap1ID": "id-1932",
-                  "ap2ID": "id-1933"
-                },
-                {
-                  "ap2Name": "Shape 2",
-                  "ap1ID": "id-1934",
-                  "ap2ID": "id-1933"
+                  "name": "Source Link",
+                  "ioValue": ""
                 }
               ],
-              "parentRepo": {
-                "lastFoundGit": "2026-02-10T10:23:39.167Z",
-                "privateRepo": false,
-                "repoName": "Scale",
-                "dateCreated": "2025-06-26T17:06:11Z",
-                "likes": 0,
-                "readMe": "https://raw.githubusercontent.com/alzatin/Scale/master/README.md?sanitize=true",
-                "yyyy": 2025,
-                "topMoleculeID": "4b6bc40a-44a9-438a-9ed9-ba4910815d8d",
-                "githubMoleculesUsed": [],
-                "html_url": "https://github.com/alzatin/Scale",
-                "topics": [],
-                "parentRepo": "BarbourSmith/Scale",
-                "forks": 0,
-                "dateModified": "739564",
-                "ranking": 0.6,
-                "searchField": "scale alzatin scales the input 2d or 3d geometry by the scale factor ",
-                "owner": "alzatin",
-                "description": "Scales the input 2D or 3D geometry by the scale factor",
-                "contentURL": "https://raw.githubusercontent.com/alzatin/Scale/master/project.abundance?sanitize=true",
-                "svgURL": "https://raw.githubusercontent.com/alzatin/Scale/master/project.svg?sanitize=true",
-                "isLocal": false
-              },
-              "unitsKey": "Unitless",
-              "fileTypeVersion": 1
+              "BOMitem": {
+                "BOMitemName": "#6 Screw",
+                "numberNeeded": 1,
+                "costUSD": 0,
+                "source": ""
+              }
+            },
+            {
+              "atomType": "Color",
+              "x": 0.8232280102476517,
+              "y": 0.3819875776397516,
+              "uniqueID": "id-2694",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                }
+              ],
+              "selectedColor": "Mauve "
+            },
+            {
+              "atomType": "Input",
+              "x": 0.025384615384615384,
+              "y": 0.15384615384615385,
+              "uniqueID": "id-2695",
+              "name": "Length"
             }
           ],
           "allConnectors": [
             {
-              "ap2Name": "Geometry",
-              "ap1ID": "id-1913",
-              "ap2ID": "id-1925"
+              "ap2Name": "geometry",
+              "ap1ID": "id-2687",
+              "ap2ID": "id-2689"
+            },
+            {
+              "ap2Name": "Shape 2",
+              "ap1ID": "id-2688",
+              "ap2ID": "id-2690"
+            },
+            {
+              "ap2Name": "Shape 1",
+              "ap1ID": "id-2689",
+              "ap2ID": "id-2690"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-2689",
+              "ap2ID": "id-2691"
+            },
+            {
+              "ap2Name": "Shape 2",
+              "ap1ID": "id-2690",
+              "ap2ID": "id-2692"
+            },
+            {
+              "ap2Name": "Shape 1",
+              "ap1ID": "id-2691",
+              "ap2ID": "id-2692"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-2692",
+              "ap2ID": "id-2693"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-2693",
+              "ap2ID": "id-2694"
             },
             {
               "ap2Name": "number or geometry",
-              "ap1ID": "id-1925",
-              "ap2ID": "id-1912"
+              "ap1ID": "id-2694",
+              "ap2ID": "id-2686"
             }
           ],
           "parentRepo": {
@@ -2541,7 +1946,7 @@
         },
         {
           "ap2Name": "geometry",
-          "ap1ID": "id-1911",
+          "ap1ID": "id-2696",
           "ap2ID": "id-1901"
         }
       ],
