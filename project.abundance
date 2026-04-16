@@ -12,6 +12,11 @@
     {
       "name": "LegAngle",
       "ioValue": 25
+    },
+    {
+      "name": "Top_thick",
+      "ioValue": 1,
+      "currentEquation": "1"
     }
   ],
   "topLevel": true,
@@ -30,8 +35,8 @@
     },
     {
       "atomType": "Circle",
-      "x": 0.13610431947840262,
-      "y": 0.798780487804878,
+      "x": 0.13691931540342298,
+      "y": 0.8140243902439025,
       "uniqueID": "id-197",
       "ioValues": [
         {
@@ -85,8 +90,8 @@
     },
     {
       "atomType": "Fusion",
-      "x": 0.719749652294854,
-      "y": 0.5372670807453416,
+      "x": 0.7212713936430318,
+      "y": 0.5518292682926829,
       "uniqueID": "id-210",
       "ioValues": [
         {
@@ -227,7 +232,7 @@
         {
           "name": "Shape 10",
           "ioValue": {
-            "geometry": "move-cut-cut-cut-cut-cut-cut-cut-cut-extrude-circle-2.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-0.25-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-16-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-17-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-18-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-19-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-20-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-21-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-22-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.5-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-23-0-0--2",
+            "geometry": "move-cut-cut-cut-cut-cut-cut-cut-cut-extrude-circle-2.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-0.25-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.75-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-16-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.75-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-17-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.75-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-18-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.75-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-19-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.75-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-20-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.75-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-21-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.75-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-22-fbe4f1dc-{\"geometry\":[{\"geometry\":\"move-cut-extrude-move-circle-0.078125-0-0-0-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}--0.75-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,-0.1],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[{\"BOMitemName\":\"#6 Screw\",\"numberNeeded\":1,\"costUSD\":0,\"source\":\"\"}]},{\"geometry\":\"move-loft-move-circle-0.078125-0-0-0-circle-0.140625-{\\\"origin\\\":[0,0,-0.1],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-1.25-1.25-0.25\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#DBADA9\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[],\"nonReplicadSerialized\":{}}-4-90-23-0-0--2",
             "dimension": "3D",
             "tags": [],
             "plane": {
@@ -334,8 +339,8 @@
     },
     {
       "atomType": "Circle",
-      "x": 0.06606397774687066,
-      "y": 0.562111801242236,
+      "x": 0.06682966585167074,
+      "y": 0.5640243902439024,
       "uniqueID": "id-287",
       "ioValues": [
         {
@@ -546,8 +551,8 @@
     },
     {
       "atomType": "Export",
-      "x": 0.907510431154381,
-      "y": 0.28260869565217395,
+      "x": 0.876120619396903,
+      "y": 0.20121951219512196,
       "uniqueID": "id-866",
       "ioValues": [
         {
@@ -576,8 +581,8 @@
     },
     {
       "atomType": "Difference",
-      "x": 0.8164116828929069,
-      "y": 0.43788819875776397,
+      "x": 0.8052159739201304,
+      "y": 0.35670731707317077,
       "uniqueID": "id-1121",
       "ioValues": [
         {
@@ -616,8 +621,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.8762169680111266,
-      "y": 0.7142857142857143,
+      "x": 0.8663406682966586,
+      "y": 0.7103658536585366,
       "uniqueID": "id-2034",
       "ioValues": [
         {
@@ -639,10 +644,16 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.6216908625106746,
-      "y": 0.8913043478260869,
+      "x": 0.6161369193154034,
+      "y": 0.8841463414634146,
       "uniqueID": "id-459",
       "name": "Flange",
+      "ioValues": [
+        {
+          "name": "Top_thick",
+          "ioValue": 1
+        }
+      ],
       "topLevel": false,
       "allAtoms": [
         {
@@ -659,8 +670,8 @@
         },
         {
           "atomType": "Circle",
-          "x": 0.21835883171070933,
-          "y": 0.5745341614906833,
+          "x": 0.215158924205379,
+          "y": 0.6951219512195121,
           "uniqueID": "id-467",
           "ioValues": [
             {
@@ -671,8 +682,8 @@
         },
         {
           "atomType": "Extrude",
-          "x": 0.4293577981651376,
-          "y": 0.7701863354037267,
+          "x": 0.4213528932355339,
+          "y": 0.7835365853658537,
           "uniqueID": "id-470",
           "ioValues": [
             {
@@ -681,14 +692,15 @@
             },
             {
               "name": "height",
-              "ioValue": 0.25
+              "ioValue": 0.25,
+              "currentEquation": ".25"
             }
           ]
         },
         {
           "atomType": "Assembly",
-          "x": 0.6203059805285118,
-          "y": 0.41304347826086957,
+          "x": 0.6267318663406682,
+          "y": 0.25609756097560976,
           "uniqueID": "id-474",
           "ioValues": [
             {
@@ -751,8 +763,8 @@
         },
         {
           "atomType": "Difference",
-          "x": 0.6321279554937413,
-          "y": 0.6925465838509317,
+          "x": 0.6511817440912796,
+          "y": 0.6128048780487805,
           "uniqueID": "id-1638",
           "ioValues": [
             {
@@ -955,14 +967,15 @@
         },
         {
           "atomType": "GitHubMolecule",
-          "x": 0.2382578992314261,
-          "y": 0.37888198757763975,
+          "x": 0.23227383863080686,
+          "y": 0.3597560975609756,
           "uniqueID": "id-2742",
           "name": "-6-Wood-Screw-inches",
           "ioValues": [
             {
               "name": "Length",
-              "ioValue": 0.5
+              "ioValue": 0.75,
+              "currentEquation": "Top_thick/2 + .25"
             }
           ],
           "topLevel": false,
@@ -1120,7 +1133,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": -0.5,
+                  "ioValue": -0.75,
                   "currentEquation": "-Length"
                 }
               ]
@@ -1286,6 +1299,14 @@
           },
           "unitsKey": "Inches",
           "fileTypeVersion": 1
+        },
+        {
+          "atomType": "Input",
+          "x": 0.025384615384615384,
+          "y": 0.32621951219512196,
+          "uniqueID": "id-3013",
+          "name": "Top_thick",
+          "type": "number"
         }
       ],
       "allConnectors": [
@@ -1339,8 +1360,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.7329624478442281,
-      "y": 0.8260869565217391,
+      "x": 0.7343113284433578,
+      "y": 0.8079268292682927,
       "uniqueID": "id-1897",
       "name": "Screws",
       "topLevel": false,
@@ -1359,8 +1380,8 @@
         },
         {
           "atomType": "Move",
-          "x": 0.3984005563282337,
-          "y": 0.35993788819875777,
+          "x": 0.32192339038304807,
+          "y": 0.35670731707317077,
           "uniqueID": "id-1901",
           "ioValues": [
             {
@@ -1595,8 +1616,8 @@
         },
         {
           "atomType": "GitHubMolecule",
-          "x": 0.25533731853117,
-          "y": 0.5248447204968945,
+          "x": 0.1882640586797066,
+          "y": 0.5701219512195123,
           "uniqueID": "id-2696",
           "name": "-6-Wood-Screw-inches",
           "ioValues": [
@@ -1951,6 +1972,13 @@
         }
       ],
       "fileTypeVersion": 1
+    },
+    {
+      "atomType": "Input",
+      "x": 0.025384615384615384,
+      "y": 0.8810975609756097,
+      "uniqueID": "id-3010",
+      "name": "Top_thick"
     }
   ],
   "allConnectors": [
@@ -2108,6 +2136,11 @@
       "ap2Name": "Shape 2",
       "ap1ID": "id-1897",
       "ap2ID": "id-2034"
+    },
+    {
+      "ap2Name": "Top_thick",
+      "ap1ID": "id-3010",
+      "ap2ID": "id-459"
     }
   ],
   "unitsKey": "Inches",
