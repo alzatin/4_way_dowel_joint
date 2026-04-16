@@ -4,6 +4,13 @@
 
 ![](/project.svg)
 
+## Inputs
+
+- **Dowel_diam** (number)
+- **LegAngle** (number)
+- **Top_thick** (number)
+
+
 
 
  

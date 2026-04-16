@@ -15,8 +15,7 @@
     },
     {
       "name": "Top_thick",
-      "ioValue": 1,
-      "currentEquation": "1"
+      "ioValue": 1
     }
   ],
   "topLevel": true,
@@ -643,6 +642,13 @@
       "name": "LegAngle"
     },
     {
+      "atomType": "Input",
+      "x": 0.025384615384615384,
+      "y": 0.3384615384615385,
+      "uniqueID": "id-3010",
+      "name": "Top_thick"
+    },
+    {
       "atomType": "Molecule",
       "x": 0.6161369193154034,
       "y": 0.8841463414634146,
@@ -692,8 +698,7 @@
             },
             {
               "name": "height",
-              "ioValue": 0.25,
-              "currentEquation": ".25"
+              "ioValue": 0.25
             }
           ]
         },
@@ -776,6 +781,14 @@
               "ioValue": "__GEOMETRY_INPUT__"
             }
           ]
+        },
+        {
+          "atomType": "Input",
+          "x": 0.025384615384615384,
+          "y": 0.15384615384615385,
+          "uniqueID": "id-3013",
+          "name": "Top_thick",
+          "type": "number"
         },
         {
           "atomType": "GitHubMolecule",
@@ -1299,14 +1312,6 @@
           },
           "unitsKey": "Inches",
           "fileTypeVersion": 1
-        },
-        {
-          "atomType": "Input",
-          "x": 0.025384615384615384,
-          "y": 0.32621951219512196,
-          "uniqueID": "id-3013",
-          "name": "Top_thick",
-          "type": "number"
         }
       ],
       "allConnectors": [
@@ -1360,8 +1365,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.7343113284433578,
-      "y": 0.8079268292682927,
+      "x": 0.7351263243683781,
+      "y": 0.7957317073170732,
       "uniqueID": "id-1897",
       "name": "Screws",
       "topLevel": false,
@@ -1974,11 +1979,17 @@
       "fileTypeVersion": 1
     },
     {
-      "atomType": "Input",
-      "x": 0.025384615384615384,
-      "y": 0.8810975609756097,
-      "uniqueID": "id-3010",
-      "name": "Top_thick"
+      "atomType": "Color",
+      "x": 0.7995110024449877,
+      "y": 0.8658536585365854,
+      "uniqueID": "id-3271",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        }
+      ],
+      "selectedColor": "Keep Out"
     }
   ],
   "allConnectors": [
@@ -2128,19 +2139,24 @@
       "ap2ID": "id-195"
     },
     {
+      "ap2Name": "Top_thick",
+      "ap1ID": "id-3010",
+      "ap2ID": "id-459"
+    },
+    {
       "ap2Name": "Shape 10",
       "ap1ID": "id-459",
       "ap2ID": "id-210"
     },
     {
-      "ap2Name": "Shape 2",
+      "ap2Name": "geometry",
       "ap1ID": "id-1897",
-      "ap2ID": "id-2034"
+      "ap2ID": "id-3271"
     },
     {
-      "ap2Name": "Top_thick",
-      "ap1ID": "id-3010",
-      "ap2ID": "id-459"
+      "ap2Name": "Shape 2",
+      "ap1ID": "id-3271",
+      "ap2ID": "id-2034"
     }
   ],
   "unitsKey": "Inches",
